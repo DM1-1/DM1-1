@@ -5,6 +5,8 @@ Hello，我是DM，一名热爱技术和开源的25届ACMer准前端工程师，
 
 - 学习前端的时间：2023.6 -- 至今<br>
   - 正在钻研前端工程化解决方案 && 前端基建，热爱开源<br>
+- 实习经历
+  - 杭州EMQ映云科技（2023.12-至今）
 
 ### ✨
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DM1-1&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/anuraghazra/github-readme-stats)
